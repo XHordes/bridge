@@ -1,0 +1,9 @@
+{
+    "name":"Testing Mod - 2",
+    "author":"LegusX",
+    "home":"https://legusx.dev",
+    "version":"1.0",
+    "description":"A random useless mod for testing that does literally nothing.",
+    "icon":"Legus_X.png",
+    "js":"hello.js"
+}
